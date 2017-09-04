@@ -5,9 +5,9 @@
 # 安装
 请开启jfs后 根据软件中心离线安装的提示安装，如无法正常安装 可SSH硬装 以SSH安装3.6.0为例:
 ```Bash
-<br>cd /tmp
-<br>wget -N -O shadowsocks.tar.gz https://raw.githubusercontent.com/heweiye/Merlin_Shadowsocks/master/shadowsocks_3.6.0.tar.gz
-<br>tar -zxvf /tmp/shadowsocks.tar.gz
-<br>chmod +x /tmp/shadowsocks/install.sh
-<br>sh /tmp/shadowsocks/install.sh
+cd /tmp
+wget -N -O shadowsocks.tar.gz https://raw.githubusercontent.com/heweiye/Merlin_Shadowsocks/master/shadowsocks_3.6.0.tar.gz
+tar -zxvf /tmp/shadowsocks.tar.gz
+chmod +x /tmp/shadowsocks/install.sh
+sh /tmp/shadowsocks/install.sh
 ```
