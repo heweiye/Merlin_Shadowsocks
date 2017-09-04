@@ -1,4 +1,4 @@
-#Shadowsocks客户端离线安装包 for Merlin介绍
+#Shadowsocks客户端离线安装包 for Merlin梅林固件
 
 该SS客户端集成了SS%SSR%kcptun
 version文件 记录了各版本的md5信息
