@@ -1,5 +1,4 @@
-#Shadowsocks客户端离线安装包 for Merlin梅林固件
-
+# Shadowsocks客户端离线安装包 for Merlin梅林固件
 该SS客户端集成了SS&SSR&kcptun
 version文件记录了各版本的md5信息
 偶数版本较稳定, 3.60为官方最后一个版本,3.6.01是 民间修改 增加了对chain_a的支持
