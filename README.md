@@ -4,7 +4,11 @@ version文件 记录了各版本的md5信息
 请开启jfs后 根据离线安装中心的提示安装
 如无法正常安装 可SSH硬装 以SSH安装3.6.0.1为例:
 cd /tmp
-wget -N -O shadowsocks.tar.gz http://www.xiazai.ml/Router/merlin/%E7%A6%BB%E7%BA%BF%E5%8C%85/shadowsocks_3.6.0.1.tar.gz
+
+wget -N -O shadowsocks.tar.gz https://raw.githubusercontent.com/heweiye/Merlin_Shadowsocks/master/shadowsocks_3.6.0.tar.gz
+
 tar -zxvf /tmp/shadowsocks.tar.gz
+
 chmod +x /tmp/shadowsocks/install.sh
+
 sh /tmp/shadowsocks/install.sh
