@@ -12,7 +12,7 @@ tar -zxvf /tmp/shadowsocks.tar.gz
 chmod +x /tmp/shadowsocks/install.sh
 sh /tmp/shadowsocks/install.sh
 ```
-<br>安装时部分会验证固件版本导致无法安装的可以修改编辑/tmp/shadowsocks/install.sh这个文件,找到
+<br>安装时部分会验证固件版本导致无法安装的,可以解压后编辑/tmp/shadowsocks/install.sh这个文件,找到
 ```Bash
 if [ "$firmware_comp" == "-1" ];then
 ```
