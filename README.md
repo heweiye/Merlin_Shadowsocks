@@ -1,5 +1,6 @@
 # Shadowsocks客户端离线安装包 for Merlin梅林固件
 该SS客户端集成了SS&SSR&kcptun
+<br>https://github.com/hq450/fancyss_history_package
 <br>https://github.com/koolshare/koolshare.github.io/tree/acelan_softcenter_ui/shadowsocks
 <br>version文件记录了各版本的md5信息,偶数版本较稳定。,3.6.0.1是 民间修改 增加了对chain_a的支持
 <br>此文件夹放置的是适用于arm路由器的ss离线安装插件，如需mips系列，请访问<br>https://github.com/koolshare/koolshare.github.io/tree/mips_softerware_center
